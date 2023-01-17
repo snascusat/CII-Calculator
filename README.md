@@ -1,2 +1,4 @@
 # CII-Calculator
-CII determines the annual reduction factor needed to ensure continuous improvement of a ship's operational carbon intensity within a specific rating level
+##CII-Overview
+This is the new approach by IMO to measure a vessel's operational efficiency. The main takeaway from the CII is its ranking scheme which is based on the operational efficiency of ships, which will be a measure of how efficient ships are when transporting cargo and passengers
+
